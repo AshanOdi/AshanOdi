@@ -120,10 +120,10 @@ workflow:
 <a href="https://github.com/AshanOdi">
 <img src="https://img.shields.io/badge/GITHUB-67F5B4?style=for-the-badge&logo=github&logoColor=080D12" alt="GitHub"/>
 </a>
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ashan-odithya-sirisena/)">
+<a href="https://www.linkedin.com/in/ashan-odithya-sirisena/">
 <img src="https://img.shields.io/badge/LINKEDIN-67F5B4?style=for-the-badge&logo=linkedin&logoColor=080D12" alt="LinkedIn"/>
 </a>
-<a href="[YOUR_PORTFOLIO_URL](https://ashan-odithya-portfolio.vercel.app/)">
+<a href="https://ashan-odithya-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/PORTFOLIO-67F5B4?style=for-the-badge&logo=googlechrome&logoColor=080D12" alt="Portfolio"/>
 </a>
 
